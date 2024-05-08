@@ -1,0 +1,8 @@
+x = 1:2:9;
+y= [40.7562,43.6006,43.2458,43.1932,43.2017];
+
+
+plot(x,y)
+title('Gráfica de la superficie equipotencial (escenario a)')
+ylabel('V(x,y)')
+xlabel('n')
